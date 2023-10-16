@@ -49,6 +49,10 @@ For e.g total of 50 bucks profit and out of it "Delhi" brings 10 bucks profit th
 ![Profit Analysis](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/411203b9-3fa1-4a79-b691-63f132aeadb2)
 
 
+### Performance Insights
+![Performance Insights](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/b0bc9efb-b336-4d62-bdd9-326148beefaa)
+
+
 
 ## Data Source and Credits
 Data Link: https://github.com/ParthM16/AtliQ-Sales-Analysis/blob/main/db_dump_version_2.sql.txt
@@ -57,5 +61,3 @@ Data Form: MySQL
 Credit: codebasics
 
 Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I
-### Performance Insights
-![Performance Insights](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/b0bc9efb-b336-4d62-bdd9-326148beefaa)
