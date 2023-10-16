@@ -9,7 +9,7 @@ To track sales data and find insights for the sales team to make better decision
 • Importing data, data modeling, and data cleaning and building a Dashboard in Power BI
 
 
-KPIs
+## KPIs
 • Revenue: sum of the amount
 
 <img width="274" alt="image" src="https://github.com/adithya-sakthi/AtliQ-Sales-Analysis/assets/105962400/be7ba09a-30d2-4b74-a7db-596ed32ac295">
@@ -49,5 +49,13 @@ For e.g total of 50 bucks profit and out of it "Delhi" brings 10 bucks profit th
 ![Profit Analysis](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/411203b9-3fa1-4a79-b691-63f132aeadb2)
 
 
+
+## Data Source and Credits
+Data Link: https://github.com/ParthM16/AtliQ-Sales-Analysis/blob/main/db_dump_version_2.sql.txt
+Data Form: MySQL
+
+Credit: codebasics
+
+Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I
 ### Performance Insights
 ![Performance Insights](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/b0bc9efb-b336-4d62-bdd9-326148beefaa)
