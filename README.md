@@ -6,7 +6,7 @@
 
 ### Business Issue
 The sales director is facing a lot of challenges such as:
-The marketing is growing dynamically and then he’s struggling in terms of tracking the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
+The marketing is growing dynamically and then he’s struggling in terms of tracking the sales, needing more accurate insights about the company sales, and then making the necessary decisions.
 
 ### Tools used:
 I used SQL queries in MySQL Workbench to take a look into the data and Power BI for ETL and visualizations to create the insights.
@@ -42,13 +42,10 @@ For e.g total of 50 bucks profit and out of it "Delhi" brings 10 bucks profit th
 
 • Revenue trend
 
+I've created three dashboards:
+- Key Insights
+- Profit analysis
+- Performance insights
 
+click here to view my [dashboard](https://www.novypro.com/project/sales-insights-23)
 
-
-## Data Source and Credits
-Data Link: https://github.com/ParthM16/AtliQ-Sales-Analysis/blob/main/db_dump_version_2.sql.txt
-Data Form: MySQL
-
-Credit: codebasics
-
-Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I
