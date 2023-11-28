@@ -1,13 +1,15 @@
-# AtliQ-Sales-Analysis
+## AtliQ Hardware-Sales-Analysis
 
-## Objective:
-To track sales data and find insights for the sales team to make better decisions and reduce time by making process automate of gathering data for visualization.
+### AtliQ Hardware
+- Is a company which supplies computer hardware and peripherals to many clients across India;
+- The company has a head office in Dehli and regional offices throughout India.
 
-## What I've Learnt
-• AIMS Grid: Purpose, Stakeholder, success criteria, End result
+### Business Issue
+The sales director is facing a lot of challenges such as:
+The marketing is growing dynamically and then he’s struggling in terms of tracking the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
 
-• Importing data, data modeling, and data cleaning and building a Dashboard in Power BI
-
+### Tools used:
+I used SQL queries in MySQL Workbench to take a look into the data and Power BI for ETL and visualizations to create the insights.
 
 ## KPIs
 • Revenue: sum of the amount
@@ -40,17 +42,6 @@ For e.g total of 50 bucks profit and out of it "Delhi" brings 10 bucks profit th
 
 • Revenue trend
 
-## Dashboards
-### Key Insights
-![Key Insights](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/52c6394f-fef8-4e5d-909d-098a281a483a)
-
-
-### Profit Analysis
-![Profit Analysis](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/411203b9-3fa1-4a79-b691-63f132aeadb2)
-
-
-### Performance Insights
-![Performance Insights](https://github.com/adithya-sakthi/Call-Centre-Trends-Analysis/assets/105962400/b0bc9efb-b336-4d62-bdd9-326148beefaa)
 
 
 
