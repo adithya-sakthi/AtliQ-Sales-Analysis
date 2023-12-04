@@ -1,4 +1,4 @@
-## AtliQ Hardware-Sales-Analysis
+## AtliQ Hardware-Sales-Analysis using Power BI and SQL
 
 ### AtliQ Hardware
 - Is a company which supplies computer hardware and peripherals to many clients across India;
